@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b647168.m3u8?sts=st=1656174710~exp=1656181310~acl=/*~hmac=24c68ef5504225a78bdb70f8b710e8c9bd44d3ccbe00478975175943bc2acab6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TV Cultura
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2Z4q4tPnHC8394lSV0zWcHWn9xbrOebId_3HtRjiADu)/dm/3/x7wur7g/s/live-1.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TV Pocos
+https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?e6094c7b0ce817c49a5dac0f89498483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TV Record
+https://bhe4.akamaized.net/hls/live/2037850/bhe4/hdntl=exp=1656271175~acl=%2f*~data=hdntl~hmac=486b2194ac7915519f91c62b554ea5f9a7c31bb727e9f88531d91d170f91d511/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",RTP 666
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?token=1656302400_591ea5e9553e2a537923eac63f13ff65c69f1d46&DVR
+
