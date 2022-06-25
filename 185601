@@ -10,5 +10,5 @@ https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?e6094c7b0ce817c49a5da
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TV Record
 https://bhe4.akamaized.net/hls/live/2037850/bhe4/hdntl=exp=1656271175~acl=%2f*~data=hdntl~hmac=486b2194ac7915519f91c62b554ea5f9a7c31bb727e9f88531d91d170f91d511/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",RTP 666
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?token=1656302400_591ea5e9553e2a537923eac63f13ff65c69f1d46&DVR
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
