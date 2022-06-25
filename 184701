@@ -10,8 +10,5 @@ https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?e6094c7b0ce817c49a5da
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TV Record
 https://bhe4.akamaized.net/hls/live/2037850/bhe4/hdntl=exp=1656271175~acl=%2f*~data=hdntl~hmac=486b2194ac7915519f91c62b554ea5f9a7c31bb727e9f88531d91d170f91d511/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",RTP 2
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?token=1656302400_591ea5e9553e2a537923eac63f13ff65c69f1d46&DVR
-
-
-
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?token=1656302400_591ea5e9553e2a537923eac63f13ff65c69f1d46&DVR|User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+Mi+A3+Build%2FRKQ1.200903.002%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F102.0.5005.125+Mobile+Safari%2F537.36|Referer=https%3A%2F%2Fwww.rtp.pt%2F|Cookie=rtp_privacy%3D1652554249108%3B+rtp_cookie_parental%3D0%3B+rtp_cookie_privacy%3Dpermit+1%2C2%2C3%2C4%3B+googlepersonalization%3D1%3B+euconsent-v2%3DCPY_8RiPY_8RiDBABBPTCPCsAP_AAH_AAB6YIwtd_X__bX9n-_7_7ft0eY1f9_r3_-QzjhfNs-8F3L_W_L0X32E7NF36tq4KuR4ku3bBIQNtHMnUTUmxaolVrzHsak2cpyNKJ7LkknsZe2dYGH9Pn9lD-YKZ7_5___f53T___9_-39z3_9f___d__-__-vjf_599n_v9fV_7___________-_________gjAASYal5AF2JY4MmkaRQogRhWEhVAoAKKAYWiKwAcHBTsrAJdQQsAEAqAjAiBBiCjBgEAAgEASERASAFggEQBEAgABAAiAQgAImAQWAFgYBAAKAaFiAFAAIEhBkQERymBARIlFBLZWIJQV7GmEAdZYAUCiMioAESAAAkBASFg5jgCQEuFkgSYoXyAEYIUAAAAA.YAAAAAAAAAAA%3B+conviva-rtp%3D16XDUL165-068XDU404-LLI525542-3715XDU76%3B+cid%3DjqL9LLfOeOXJ3qE5NVFMoMFVkH%2F3p1BQYbNgMqzrVvQhlLKvjAx3l2m1TlCsCgYfeb1xNsexg1fcn0wac46Qwg%3D%3D
 
