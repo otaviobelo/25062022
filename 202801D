@@ -3,8 +3,8 @@
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b647168.m3u8?sts=st=1656174710~exp=1656181310~acl=/*~hmac=24c68ef5504225a78bdb70f8b710e8c9bd44d3ccbe00478975175943bc2acab6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TV Cultura
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2Z4q4tPnHC8394lSV0zWcHWn9xbrOebId_3HtRjiADu)/dm/3/x7wur7g/s/live-1.m3u8#cell=lnyc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TVE Bahia
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Sesc TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TV Pocos
 https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?e6094c7b0ce817c49a5dac0f89498483
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Amazon Sat
