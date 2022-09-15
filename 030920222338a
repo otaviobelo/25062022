@@ -5,8 +5,9 @@ http://tv.maxnet.com.br:8555/live/66213932615/66213932615/205.m3u8
 http://tv.maxnet.com.br:8555/live/66213932615/66213932615/226.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/dc77e54e-5560-42a7-a34a-b34f1d3ed301/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",TV Pocos
-https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?e6094c7b0ce817c49a5dac0f89498483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Eurochannel
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/eurochannel-en/c82de9d8-3136-4e34-bc24-107253492018/0.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Amazon Sat
 https://cdn.jmvstream.com/w/LVW-11327/ngrp:LVW11327_U3XLeZTDtA_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",RTP 777
