@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Max Net
 http://tv.maxnet.com.br:8555/live/66213932615/66213932615/205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",EPTV Sul de Minas
-http://tv.maxnet.com.br:8555/live/66213932615/66213932615/226.m3u8
+https://live-as-01-13.video.globo.com/d/s/hls-globo-var/hls-globo-var_2359/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/dc77e54e-5560-42a7-a34a-b34f1d3ed301/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra",Eurochannel
