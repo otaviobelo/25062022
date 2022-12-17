@@ -9,5 +9,5 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b610304.m3u8?sts=st=1671285819~exp=1671292419~acl=/*~hmac=165babc11e44308eb87c2fff6d7fe72209c5a1302610ac79d9332472485ca941
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", EPTV Sul de Minas #
-https://live-as-01-22.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMjIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjcxMzczNjMzLCJpYXQiOjE2NzEyODcyMzMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm9wZW5fc3RhdHVzIjoiRiIsIm93bmVyIjoiNWEyNzAzNjQtYTVkZC00ZTE5LTg1ZGMtNWU1ZmZkNDQ0NWQ3IiwicGF0aCI6Ii9kL2MvMngvcy9obHMtZ2xvYm8tdmFyL3BsYXlsaXN0Lm0zdTgiLCJ1c2VyU2Vzc2lvbktleSI6ImFiMjU3ZjI5LWI0NmMtZWZmZC1kYzIxLWYyYWVhYTI3Y2U0YyJ9.fFm0X9W0eB95zsbnH5YXuADPR_310Gmbfd1AoCzo8PT2l3wcYjWvKxpXdKDDYumd3QC0D3mlT4RfkWvZ6zOYtZiAwARRcOGdG60T4fV-sYWgJyOGN-pNll-ZAX7Ij0puP_fY9445-Pai5PpMFajVGYXqAWdIJBDhh1O74lybJSq78-AXeHcvvg7dWpP5w6jdYnYK-jlj502YM59-amlKfQ2NMpgHucP8eQvEjxcMvEa2bci9jsU3kGE1UuGYjwW8RR4unt07bHA3d3HsOuB8SXULmUJWoysW-onAx9-MLcKNam3Gga9IwZXWR0xv2PzU6gZhhK2VU80cLukPhTuHPg/d/c/2x/s/hls-globo-var/hls-globo-var_2359/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
