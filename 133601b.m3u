@@ -16,3 +16,5 @@ https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3bLZ_K9uwwhuiKqfO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w2015562000.m3u8?79b3926d328357daae324a4e3a3ec87c
