@@ -10,8 +10,8 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b610304.m3u8?sts=st=1671285819~exp=1671292419~acl=/*~hmac=165babc11e44308eb87c2fff6d7fe72209c5a1302610ac79d9332472485ca941
 
 
-#EXTINF:-2 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", RTP Madeira #
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-2 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", TV Cultura
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3bLZ_K9uwwhuiKqfOpqYOd8KGEi_n6QZdA9Q_pAd__u)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
