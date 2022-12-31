@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Buck Rogers Episódio 1
-https://east.manifest.na.theplatform.com/m/HNK2IC/ooyBL0Tl8eb2,ESG0M7Xma9Zs,3MlYA_Z9zk4m,f2pGfzs7e2Rl,DbCHl7eyj9XK,Vm3ZXqGMZ7g_,mK3mn_uRmOS5.m3u8?sid=05282ccd-8f09-41cf-a7af-09601a35ce5b&policy=147097219&date=1672518865285&ip=202.78.172.153&schema=1.1&manifest=M3U&tracking=true&switch=HLSServiceSecure&am_sdkv=null&_fw_h_referer=www.nbc.com&nw=169843&h1=202&siteSectionId=oneapp_desktop_computer_web_ondemand_mobile&am_extmp=default&uuid=optout-523058483672772&am_appv=null&mode=on-demand&uoo=0&us_privacy_string=1YNN&mparticleid=-5286276121291625209&w1=360&sfid=9244655&player=%5Bv2%5D+OneApp+-+PDK6+NBC.com&am_buildv=null&am_abvrtd=0&am_cpsv=4.0.0-2&metr=1023&csid=oneapp_desktop_computer_web_ondemand&userAgent=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+Mi+A3+Build%2FRKQ1.200903.002%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F108.0.5359.128+Mobile+Safari%2F537.36&afid=200265138&prof=nbcu_web_svp_js_https&fallbackSiteSectionId=9244643&vpaid=script&_fw_vcid2=169843%3A-5286276121291625209&rdid=2416ad60-e9a8-116c-19a1-fa06cf2b980b&am_crmid=-5286276121291625209&am_playerv=null&sdk=PDK+6.4.3&did=2416ad60-e9a8-116c-19a1-fa06cf2b980b&am_stitcherv=poc&am_abtestid=0&sig=34c4ce850f74a9ab59c0cf2e213ac67580fde3b1d19c063b5adccf7090e0414a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", AmazonSat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Record MG
