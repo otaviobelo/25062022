@@ -8,7 +8,7 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", AmazonSat 
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", TV Tropical Record
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", TV Tropical Record #
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1308467911.m3u8
 
 #EXTINF:-25 tvg-id="" tvg-name="" tvg-logo="https://marsemfim.com.br/wp-content/uploads/2016/04/27110346028145.jpg" group-title="Tv Zebra", Receitas Fast
