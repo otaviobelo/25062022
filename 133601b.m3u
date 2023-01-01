@@ -6,6 +6,9 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.petz.com.br/blog/wp-content/uploads/2021/03/raca-de-cachorro-branco-4.jpg" group-title="Tv Zebra", Record Minas
+https://bhe4.akamaized.net/hls/live/2037850/bhe4/hdntl=exp=1672672785~acl=%2f*~data=hdntl~hmac=b7277c18d86179c32439cb3aa7cf7c4f75c30196398b85a73bd11fc92f5a2862/master_720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", SBT
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ABVQXgr2LW4
 
