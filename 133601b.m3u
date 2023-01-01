@@ -10,9 +10,8 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", TV Diário #
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQy4NwAm6fCUbBuxlYmb5N-JO9vk6LBKnzdS9n1S93Lj)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Band
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLt7XV7bTs-T1CRz7Tfv3QJ7V3dJJk4psA6ev9cUwvKfg)/dm/3/x82cxbb/d/live-4.m3u8#cell=lnyc
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Band #
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkDIqf_z9C4GAF2aYGUdTfZkY-pjLNhDsSnpDTu3VP2C)/dm/3/x82cxbb/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Globo Ubatuba
 https://live-as-01-02.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMDIudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjcyNjAxOTMzLCJpYXQiOjE2NzI1MTU1MzMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNWEyNzAzNjQtYTVkZC00ZTE5LTg1ZGMtNWU1ZmZkNDQ0NWQ3IiwicGF0aCI6Ii9kL2MvMngvcy9obHMtZ2xvYm8tdGF1L3BsYXlsaXN0Lm0zdTgifQ.U4j2Lc1yOzzYS3a4FP1N8D1UwPuOeYV915yarC0VuBAKoSHzUGcD-zo3h-RAEVrtk5a8TbJ28ycQch0qTgaSYcp5pZLmBUVqmqjiEhG11QPYj-t8PUAWQX_9LVwu-33sntYl_8v7vEPHIeJcTNw9ws--SVirHKE1lhuCfP-N2WU6zqjHklzBc2Aoc13oVtgTsXs47ZAEPSwbIXP-66NVmj3HAZvubqM1Fli-RxL7u8SQTP4ht9Udlc3Xt5bJRmMmrkNw5QkPXgrhxy_nCPS3v45pV6x8c1vQTG58ZwIi3kKKqu7w1HZwe1T0ZufAdiokOlQskgL7hxyV68xVsd65zA/d/c/2x/s/hls-globo-tau/hls-globo-tau_2359/playlist.m3u8
