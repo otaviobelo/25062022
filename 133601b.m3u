@@ -15,10 +15,10 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ABVQXg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", SBT Ribeirão Preto
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=J78skwsgJkE
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", TV Diário #
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", TV Diário 
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQy4NwAm6fCUbBuxlYmb5N-JO9vk6LBKnzdS9n1S93Lj)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Band #
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Band 
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkDIqf_z9C4GAF2aYGUdTfZkY-pjLNhDsSnpDTu3VP2C)/dm/3/x82cxbb/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tv Zebra", Globo Ubatuba
