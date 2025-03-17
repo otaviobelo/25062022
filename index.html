@@ -197,6 +197,46 @@ margin-top: 10px;
         .pin-button:hover {
             background: rgba(255, 255, 255, 0.3);
         }
+
+/* Estilos para dispositivos móveis (telas com largura máxima de 768px) */
+@media (max-width: 768px) {
+    .player-section {
+        display: flex;
+        flex-direction: column; /* Coloca o player e a grade em coluna */
+    }
+
+    .player-container {
+        height: 60vh; /* Define a altura do player como 60% da altura da tela */
+    }
+
+    .channels-section {
+        position: relative; /* Remove o posicionamento absoluto */
+        top: auto;
+        right: auto;
+        width: 100%; /* Ocupa 100% da largura */
+        height: 40vh; /* Define a altura da grade como 40% da altura da tela */
+        background: rgba(0, 0, 0, 0.9); /* Fundo escuro para a grade */
+    }
+
+    .channel-grid {
+        display: flex;
+        flex-direction: row; /* Coloca os canais em linha (horizontal) */
+        gap: 10px;
+        padding: 10px;
+        overflow-x: auto; /* Rolagem horizontal */
+        overflow-y: hidden; /* Remove a rolagem vertical */
+    }
+
+    .channel-logo {
+        flex: 0 0 auto; /* Impede que os canais se estiquem */
+        text-align: center;
+    }
+
+    .channel-logo img {
+        width: 50px; /* Aumenta o tamanho dos logos */
+        height: 50px;
+    }
+}
     </style>
 </head>
 <body>
